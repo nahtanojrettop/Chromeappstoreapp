@@ -1,0 +1,27 @@
+{
+  "version": "2.6",
+  "name": "Github Theme",
+  "theme": {
+    "images" : {
+      "theme_frame" : "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png",
+      "theme_frame_overlay" : "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png",
+      "theme_toolbar" : "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png",
+      "theme_ntp_background" : "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png",
+      "theme_ntp_attribution" : "https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png"
+    },
+    "colors" : {
+      "frame" : [71, 105, 91],
+      "toolbar" : [207, 221, 192],
+      "ntp_text" : [20, 40, 0],
+      "ntp_link" : [36, 70, 0],
+      "ntp_section" : [207, 221, 192],
+      "button_background" : [0, 255, 0]
+    },
+    "tints" : {
+      "buttons" : [0.33, 0.5, 0.47]
+    },
+    "properties" : {
+      "ntp_background_alignment" : "bottom"
+    }
+  }
+}
